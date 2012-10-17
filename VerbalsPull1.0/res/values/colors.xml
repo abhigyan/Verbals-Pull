@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="current_bgcolor">#FF7600</color>
+    <color name="past_bgcolor">#01939A</color>
+</resources>

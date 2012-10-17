@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Verbals Pull</string>
+    
+    <string name="dia1">I am Pica, a magpie. I can  bring you images from the past.</string>
+    <string name="dia2">Tell me a location</string>
+    <string name="dia3">Click the button and tell me a location. I will fly to the Past</string>   
+    <string name="dia4">Shall I fly to the garden of human memories and bring pictures of </string> 
+    <string name="dia5">The noise demon, Bazooka, who hates silence and human voice succeeded in disrupting our communication. Could you speak the location again?</string>
+    <string name="dia6">FlickR, the guardian, help me in finding images of</string>
+    <string name="dia7">in the garden of human memories in the invisible land of the Past.</string>
+</resources>
